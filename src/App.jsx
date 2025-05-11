@@ -5,8 +5,8 @@ import {
   RouterProvider } 
   from "react-router-dom";
 import HomePage from "./pages/HomePage";
-import MainLayout from "./Layouts/MainLayout";
-import AboutPage from "./pages/AboutPAge";
+import MainLayout from "./layouts/MainLayout";
+import AboutPage from "./pages/AboutPage";
 import NotFoundPage from "./pages/NotFoundPage";
 
 function App() {
